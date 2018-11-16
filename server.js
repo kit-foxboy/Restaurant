@@ -12,7 +12,7 @@ var fs = require("fs");
 var app = express();
 var PORT = process.env.PORT || 3000;
 
-// require("./page_routing.js")(app);
+require("./page_routing.js")(app);
 // require("./api.js")(app);
 
 // Sets up the Express app to handle data parsing
