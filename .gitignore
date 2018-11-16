@@ -1,3 +1,24 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.settings
+.project
+.classpath
+target
+ui.apps/src/main/content/jcr_root/.vlt-sync.log
+ui.apps/src/main/content/jcr_root/.vlt-sync-config.properties
+
+# IDE Generated Files #
+######################
+.vscode
+.idea
+
 # Logs
 logs
 *.log
